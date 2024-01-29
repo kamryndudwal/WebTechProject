@@ -1,0 +1,128 @@
+body{
+  background-color: rgb(243, 237, 178);
+  color: rgb(105, 92, 92);
+  font: sans-serif;
+}
+
+hr{
+  height: 1px;
+  background-color: rgb(105, 92, 92);
+  border: none;
+}
+
+nav, footer{
+    background-color: rgb(233, 165, 233);
+    color: rgb(105, 92, 92);
+    padding: 20px;
+    float: left;
+    width: 100%; 
+}
+
+img{
+    float: right;
+}
+
+#aboutme, #edu{
+  width: 65%;
+  padding-right: 0px;
+  border: 4px double rgb(105, 92, 92);
+  border-radius: 5px;
+}
+
+#exp{
+  width: 95%;
+  border: 4px double rgb(105, 92, 92);
+  border-radius: 5px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+#exp{
+  list-style-type: circle;
+}
+
+#im2{
+  position: relative;
+}
+
+h2{
+  padding: 0px;
+ }
+
+#port1{
+  margin: 0;
+  padding: 5px;
+  width: 95%;
+  float: left;
+  border: 4px double rgb(105, 92, 92);
+  border-radius: 5px;
+  font-size: 20px;
+  margin: 10px;
+}
+
+ #port2{
+  margin: 10px;
+  padding: 5px;
+  width: 95%;
+  float: left;
+  border: 4px double rgb(105, 92, 92);
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+#im3{
+  margin: 0;
+  padding: 5px;
+  width: 50%;
+  float: left;
+  margin: 10px;
+  padding: 5px;
+}
+
+h1{
+  font-size: 25px;
+}
+
+aside{
+  position: relative;
+}
+h5{
+  margin: 15px;
+}
+#skil{
+  margin-top: 0px;
+  margin-left: 30px;
+}
+
+#alskil{
+  margin-left: 0px;
+  margin-bottom: 10px;
+  width: 50%;
+  float: left;
+  border: 4px double rgb(105, 92, 92);
+  border-radius: 5x;
+}
+
+form{
+  margin: 10px;
+  padding: 5px;
+  width: 95%;
+  float: left;
+  border: 4px double rgb(105, 92, 92);
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+#contact{
+  margin: 10px;
+  padding: 5px;
+  width: 50%;
+  float: left;
+  border-color: rgb(105, 92, 92);
+  border: 4px;
+  border-style: double;
+  border-radius: 5px;
+  font-size: 20px;
+}
